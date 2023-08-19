@@ -1,4 +1,4 @@
-# data-bootcamp07
+# Data Science Bootcamp 7
 All my data projects in the bootcamp. There are 10 sprints as follow.
 
 - Google Sheets
